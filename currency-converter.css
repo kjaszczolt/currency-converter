@@ -16,7 +16,7 @@ html {
     margin: auto;
 }
 
-.formHeader {
+.form__header {
     padding: 12px;
     max-width: 1000px;
     border: 1px solid rgb(20, 55, 85);
